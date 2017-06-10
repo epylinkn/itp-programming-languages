@@ -1,0 +1,6 @@
+(define (mystery-method n)
+  (if (<= n 2)
+    1
+    (+ (mystery-method (- n 1)) (mystery-method (- n 2)))
+  )
+)
