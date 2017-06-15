@@ -304,7 +304,7 @@ libraries available to you via the community, e.g. open-source
 ## javascript
 
 ```
-npm install superbole
+npm install superb
 ```
 
 ## ruby
